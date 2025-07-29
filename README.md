@@ -45,7 +45,7 @@ By exposing playtime using **only the data they’ve already leaked**, this proj
 
 - `9ward Sn00wdin3` – Lead analyst of the Engagement Underground
 - `X_Kelloggs_Leaks` – Unconfirmed whistleblower
-- `@RebelScriptKrew` – For the green text color and moral support
+- `@Wardenofthespring` – For the green text color and moral support
 
 ---
 
