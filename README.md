@@ -40,8 +40,6 @@ By exposing playtime using **only the data they’ve already leaked**, this proj
 
 > “You can’t unsee it once it’s there.” – a totally real NS Dev
 
-## ⚠️ Disclaimer
-No actual private NationStates data is accessed, scraped, or reverse-engineered — only what's already in the DOM.
 
 ## 🧬 Credits
 
@@ -53,3 +51,69 @@ No actual private NationStates data is accessed, scraped, or reverse-engineered 
 
 > **REVOKE CLEARANCE?**  
 To late.....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## ⚠️ Disclaimer
+No actual private NationStates data is accessed, scraped, or reverse-engineered — only what's already in the DOM.
