@@ -25,7 +25,7 @@ But we’ve seen behind the curtain.
 ## 🛠️ Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) (or similar userscript manager).
-2. Click **"Raw"** on [`boneyard_playtime.user.js`](./boneyard_playtime.user.js), then click **Install**.
+2. Click **"Raw"** on [`boneyard_playtime.user.js`](https://github.com/jmikk/Red-Pill/blob/main/Boneyard%20Playtime.user.js), then click **Install**.
 3. Visit [`https://www.nationstates.net/page=boneyard`](https://www.nationstates.net/page=boneyard).
 4. Behold the **truth**.
 
